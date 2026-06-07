@@ -1,8 +1,15 @@
-# 👩🏾‍💻 Nicole Silva
+# 💻 Nicole Silva
 
-**`Analista de Dados`**
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=Be+Welcome!;Seja+bem+vindo!;" alt="Typing SVG"/>
+</div>
 
-Me chamo Nicole Henrique Silva, tenho 20 anos e sou natural de São Paulo. Atualmente, sou graduando no curso Análise e Desenvolvimento de Sistemas na UNICSUL e profissional da área de finanças e negócios. Combino uma sólida experiência em negociação, metas e gestão de riscos com a paixão por construir soluções de software eficientes, organizadas e seguras.
+<br>
+
+**`Analista de Dados`** | **`SQL`** | **`Power BI`** |
+
+Me chamo Nicole, tenho 20 anos e sou de São Paulo-SP. Atualmente, sou graduando no curso Análise e Desenvolvimento de Sistemas e profissional da área de finanças e negócios. Combino uma sólida experiência em negociação, metas e gestão de riscos com a paixão por construir soluções de software eficientes, organizadas e seguras.
 
 <div> 
 
@@ -50,7 +57,11 @@ Me chamo Nicole Henrique Silva, tenho 20 anos e sou natural de São Paulo. Atual
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
-
-
 <br/>
 <br/>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=NicoleHsilva&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=NicoleHsilva&layout=compact&theme=radical&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicoleHsilva&theme=radical"/>
+</div>
