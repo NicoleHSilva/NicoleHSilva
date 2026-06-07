@@ -87,6 +87,8 @@ Student of Systems Analysis and Development with a strong interest in software e
 <br/>
 <br/>
 
+---
+
 <div align="center">
   <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=NicoleHsilva&rank_icon=github&show_icons=true&theme=radical&count_private=true">
   <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=NicoleHsilva&layout=compact&theme=radical&count_private=true">
