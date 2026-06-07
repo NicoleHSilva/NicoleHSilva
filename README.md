@@ -9,7 +9,7 @@
 
 **`Analista de Dados`** | **`SQL`** | **`Power BI`** |
 
-Me chamo Nicole, tenho 20 anos e sou de São Paulo-SP. Atualmente, sou graduando no curso Análise e Desenvolvimento de Sistemas e profissional da área de finanças e negócios. Combino uma sólida experiência em negociação, metas e gestão de riscos com a paixão por construir soluções de software eficientes, organizadas e seguras.
+Me chamo Nicole, tenho 20 anos e sou de São Paulo-SP. Atualmente, sou graduando no curso Análise e Desenvolvimento de Sistemas!
 
 <div> 
 
